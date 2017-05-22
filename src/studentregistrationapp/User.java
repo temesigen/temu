@@ -1,0 +1,6 @@
+
+package studentregistrationapp;
+
+class User {
+    
+}
